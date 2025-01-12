@@ -16,7 +16,7 @@ Hello! My name is Kamphaengphet Singkhon. You can call me Andrew, and I am a com
 
 ### Software Development
 - **Languages:**
-  - Java, Python, C, PHP
+  - Java, Python, C, PHP, Kotlin
 - **Frontend:**
   - HTML, CSS, JavaScript
 - **Backend:**
