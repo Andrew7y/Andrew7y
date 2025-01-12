@@ -36,6 +36,9 @@ Hello! My name is Kamphaengphet Singkhon. You can call me Andrew, and I am a com
 - **Software Development Frameworks:**
   - Hands-on experience with **Spring Framework** for backend development.
 
+- **Web Scraping:**
+  - Work with Selenium library for scraping data from a web page.
+
 ---
 
 ## What I'm Currently Learning
