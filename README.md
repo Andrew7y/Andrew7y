@@ -1,36 +1,30 @@
 # About Me
 
-Hello! My name is Kamphaengphet Singkhon. You can call me Andrew, and I am a computer science undergraduate studying at the College of Computing, Khon Kaen University, I am passionate about technology and software engineering, with a particular focus on backend development and deep learning.
+Hello! My name is Kamphaengphet Singkhon. You can call me Andrew, and I am a computer science undergraduate studying at the College of Computing, Khon Kaen University, My passionate is about software engineering, with a particular focus on backend development and deep learning.
 
 ---
 
 ## Areas of Interest
 - **Software Engineering (Backend Development):**
   - Developing scalable and maintainable systems.
-  - Building robust backend systems using modern frameworks.
 
 - **Deep Learning:**
   - Designing and training neural network models using PyTorch.
 
 ---
-
 ## Skills & Experience
 
 ### Software Development
 - **Languages:**
   - Java, Python, C, PHP
-
 - **Frontend:**
   - HTML, CSS, JavaScript
-
 - **Backend:**
-  - Spring Framework
-
+  - Spring Framework (Java), Flask (Python)
 - **Mobile Development:**
   - Android app development using Kotlin
-
 - **Database Design & Management:**
-  - MySQL, MongoDB
+  - MySQL, MongoDB 
 
 ### Tools & Frameworks
 - **Software Testing:**
@@ -42,6 +36,12 @@ Hello! My name is Kamphaengphet Singkhon. You can call me Andrew, and I am a com
 - **Software Development Frameworks:**
   - Hands-on experience with **Spring Framework** for backend development.
 
-### Additional Experience
-- Designed and implemented efficient database systems.
-- Worked on full-stack applications with a focus on backend services.
+---
+
+## What I'm Currently Learning
+I am constantly learning and exploring new technologies to enhance my skill set. Some of the topics I’m currently diving into include:
+- Advanced deep learning techniques
+- Microservices architecture for scalable backend systems
+- Cloud technologies and deployment
+
+---
