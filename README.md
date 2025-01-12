@@ -40,7 +40,7 @@ Hello! My name is Kamphaengphet Singkhon. You can call me Andrew, and I am a com
 
 ## What I'm Currently Learning
 I am constantly learning and exploring new technologies to enhance my skill set. Some of the topics I’m currently diving into include:
-- Advanced deep learning techniques
+- Generative Adversarial Network
 - Microservices architecture for scalable backend systems
 - Cloud technologies and deployment
 
