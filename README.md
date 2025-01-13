@@ -1,5 +1,10 @@
 # About Me
-Hello! My name is Kamphaengphet Singkhon. You can call me Andrew, and I am a computer science undergraduate studying at the College of Computing, Khon Kaen University, My passionate is about software engineering, with a particular focus on backend development and deep learning.
+## About Me  
+
+Hello! My name is **Kamphaengphet Singkhon**, but you can call me **Andrew**. I am a Computer Science undergraduate at the College of Computing, Khon Kaen University.  
+
+I am passionate about **Software Engineering**, with a particular focus on **Backend Development** and **Deep Learning**. I enjoy tackling complex problems and building robust, scalable software solutions.  
+
 ---
 ## Areas of Interest
 - **Software Engineering (Backend Development):**
